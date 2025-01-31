@@ -44,11 +44,11 @@
 <body>
     <div class="container">
         <img src="profile.jpg" alt="프로필 사진">
-        <h1>안녕하세요! 홍길동입니다.</h1>
-        <p>프로그래밍과 웹 개발을 좋아하는 개발자입니다.</p>
-        <h2>연락처</h2>
-        <p>Email: example@email.com</p>
-        <p>GitHub: <a href="https://github.com/yourgithub" target="_blank">github.com/yourgithub</a></p>
+        <h1>안녕하세요! 조수림입니다.</h1>
+        <p>데이터 분석가를 꿈꾸는 통계학과 졸업생입니다.</p>
+        <h2>010-2239-4243</h2>
+        <p>Email: chosurim2@gmail.com</p>
+        <p>GitHub: <a href="https://github.com/soorimi" target="_blank">github.com/yourgithub</a></p>
         <a href="#" class="btn">더 알아보기</a>
     </div>
 </body>
